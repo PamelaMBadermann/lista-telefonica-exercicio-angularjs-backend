@@ -1,0 +1,19 @@
+{
+    "name": "back",
+    "version": "1.0.0",
+    "description": "",
+    "main": "http.js",
+    "scripts": {
+        "start": "node http.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PamelaMBadermann/lista-telefonica-exercicio-angularjs-backend.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PamelaMBadermann/lista-telefonica-exercicio-angularjs-backend/issues"
+    },
+    "homepage": "https://github.com/PamelaMBadermann/lista-telefonica-exercicio-angularjs-backend#readme"
+}

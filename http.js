@@ -1,6 +1,6 @@
 var router = require('./router');
 
-var app = router(3001);
+var app = router(8000);
 
 var operadoras = [
     { nome: "Oi", codigo: 14, categoria: "Celular", preco: 2 },
